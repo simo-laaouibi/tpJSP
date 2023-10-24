@@ -2,7 +2,19 @@
 # a propos 
 JSP (JavaServer Pages) est une technologie de développement web Java qui permet d'incorporer du code Java directement dans des pages HTML pour créer des pages web dynamiques.
 
-# screen shot 
+# Technologie utiliser 
+Hibernete 
+
+jpc
+
+java 
+
+
+
+# Screen shot 
+
+![image](https://github.com/simo-laaouibi/tpJSP/assets/148088062/f068d17b-4fde-4b3f-b2a4-b2b26453c103)
+
 
 # serveur start
 ![image](https://github.com/simo-laaouibi/tpJSP/assets/148088062/0755ca20-20c5-4794-9e8a-915339775b59)
