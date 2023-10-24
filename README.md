@@ -1,15 +1,17 @@
 # tpJSP
-# a propos 
 JSP (JavaServer Pages) est une technologie de développement web Java qui permet d'incorporer du code Java directement dans des pages HTML pour créer des pages web dynamiques.
+# a propos 
+
+Ce référentiel contient un projet Java qui se concentre sur la gestion des salles et des machines à travers une interface web créée avec JavaServer Pages (JSP). L'objectif fondamental du projet est de proposer un moyen efficace de superviser les salles et les machines au sein d'une organisation. Ce guide README fournit une vue d'ensemble du projet ainsi que des instructions pour son démarrage.
 
 # Technologie utiliser 
-Hibernete 
+Java SE Development Kit (JDK)
 
-jpc
+GlassFish Server
 
-java 
+MySQL database
 
-
+MySQL Connector/J (JDBC Driver) for database connectivity
 
 # Screen shot 
 
@@ -72,6 +74,10 @@ Pages Web Dynamiques : Les JSP sont utilisées pour générer des pages Web dyna
 Interopérabilité avec d'autres technologies : Les JSP peuvent être utilisées avec d'autres technologies Java, telles que les servlets, pour créer des applications Web complètes. Les servlets sont couramment utilisés pour gérer la logique commerciale, tandis que les JSP sont utilisées pour l'interface utilisateur.
 
 Séparation de la logique et de la présentation : Les JSP favorisent la séparation de la logique (le code Java) et de la présentation (le code HTML) dans les applications Web. Cela rend le code plus maintenable et facilite la collaboration entre les développeurs côté serveur et côté client.
+
+# conclusion 
+
+le but des JSP est de faciliter l'ajout et la suppression d'enregistrements dans une base de données en utilisant des pages web JSP pour communiquer avec le serveur et gérer les opérations sur la base de données. Cette fonctionnalité repose sur le traitement côté serveur, les servlets et la manipulation de la base de données pour permettre ces actions.
 
 
 
