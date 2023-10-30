@@ -29,8 +29,7 @@ MySQL Connector/J (JDBC Driver) for database connectivity
 ![image](https://github.com/simo-laaouibi/tpJSP/assets/148088062/84b81b56-cb85-4f01-bbba-c9ecba53c3a0)
 # Machine supprimer 
 ![image](https://github.com/simo-laaouibi/tpJSP/assets/148088062/ca0ba200-26f6-4c0c-a251-cd42c9afd56a)
-# Modifier Machine 
-![image](https://github.com/simo-laaouibi/tpJSP/assets/148088062/3ab71824-1390-4c79-8af0-22f23d155449)
+
 # Interface salle 
 ![image](https://github.com/simo-laaouibi/tpJSP/assets/148088062/74c708f1-939e-4559-81a7-39b863155f40)
 # ajouter salle 
